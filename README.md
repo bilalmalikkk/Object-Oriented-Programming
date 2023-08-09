@@ -5,8 +5,7 @@ Welcome to the Object-Oriented Programming Repository! This repository is dedica
 ## Table of Contents
 
 - [Introduction]
-- [Projects]
-- [Assignments]
+- [Projects]/[Assignments]
 - [Getting Started]
 - [Contributing]
 - [License]
