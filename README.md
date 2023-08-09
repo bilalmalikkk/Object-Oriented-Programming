@@ -15,13 +15,10 @@ Welcome to the Object-Oriented Programming Repository! This repository is dedica
 
 Object-Oriented Programming (OOP) is a crucial paradigm in software development that focuses on organizing code into objects and classes, allowing for modularity, reusability, and maintainability. This repository serves as a hub for OOP-related projects and assignments, covering a wide range of programming languages and concepts.
 
-## Projects
+## Projects/Assignments
 
-In the "Projects" directory, you will find a collection of real-world and sample OOP projects. Each project comes with its own README file detailing its purpose, features, and usage instructions. Feel free to explore, clone, and contribute to these projects to enhance your OOP skills.
-
-## Assignments
-
-The "Assignments" directory contains a variety of OOP assignments that cover different topics and difficulty levels. These assignments are meant to help you practice OOP concepts and apply them to solve programming problems. Each assignment folder includes a description of the task, any required resources, and a sample solution if available.
+In this directory, you will find a collection of real-world and sample OOP projects. Each project comes with its own README file detailing its purpose, features, and usage instructions. Feel free to explore, clone, and contribute to these projects to enhance your OOP skills.
+The directory also contains a variety of OOP assignments that cover different topics and difficulty levels. These assignments are meant to help you practice OOP concepts and apply them to solve programming problems. Each assignment folder includes a description of the task, any required resources, and a sample solution if available.
 
 By completing these assignments, you can reinforce your understanding of concepts like encapsulation, inheritance, polymorphism, and design patterns.
 
