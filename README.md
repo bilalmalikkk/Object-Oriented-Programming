@@ -7,8 +7,6 @@ Welcome to the Object-Oriented Programming Repository! This repository is dedica
 - [Introduction]
 - [Projects]/[Assignments]
 - [Getting Started]
-- [Contributing]
-- [License]
 
 ## Introduction
 
@@ -34,8 +32,3 @@ If you're new to this repository, follow these steps to get started:
 
 3. **Contribute:** If you want to contribute your own OOP projects or assignments, fork this repository, create a new branch for your work, make your changes, and submit a pull request. Follow the contribution guidelines outlined in the [CONTRIBUTING.md] file.
 
-## Contributing
-
-Contributions are highly encouraged! Whether you want to fix a bug, improve documentation, add new projects, or create new assignments, your contributions will be valuable to fellow learners and developers.
-
-Please review the [CONTRIBUTING.md] file for guidelines on how to contribute to this repository.
